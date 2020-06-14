@@ -1,4 +1,3 @@
-package com.galasi.algorithm.leetCode.sixMoth.six10;
 
 import java.util.HashMap;
 import java.util.Map;
